@@ -4,11 +4,11 @@
 An AI-powered meal planner designed to generate personalized meal plans based on user preferences, dietary restrictions, and nutritional goals. This web application helps users plan meals efficiently, aiming to improve health and convenience through intelligent suggestions.
 
 ## 💻 Tech Stack
-- **Frontend**: HTML, CSS, JavaScript (jQuery)
-- **Backend**: Python (Flask)
-- **Database**: SQLite
-- **Templating**: Jinja2
-- **AI/ML**: OpenAI GPT-3 (via API for recipe generation)
+- **Frontend**: React.js
+- **Backend**: Node.js with Express.js
+- **Database**: MongoDB (via Mongoose)
+- **AI Integration**: OpenAI GPT API for dynamic meal plan suggestions
+- **Styling**: CSS / Bootstrap / Material UI (optional)
 
 ## ✨ Features
 - 🔐 User authentication (login/signup)
